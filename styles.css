@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    font-family:monospace;
+}
+
+table, th, td {
+    border: 1px solid salmon;
+    border-collapse: collapse;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    color: sandybrown;
+    font-weight: bold;
+}
+
+td {
+    font-size: 14px;
+}
